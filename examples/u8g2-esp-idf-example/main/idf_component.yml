@@ -1,0 +1,5 @@
+dependencies:
+  pnobre/u8g2-esp-idf:
+    version: "*"
+
+    override_path: "../../../"
